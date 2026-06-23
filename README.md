@@ -16,8 +16,10 @@ Banks decide how much credit to give each customer based on a range of factors �
 ## 📂 Repository Contents
 
 ```
-├── credit_limit_final.ipynb          # Full analysis notebook (run top to bottom)
-├── Credit_Limit_Prediction_Insights.pptx  # Presentation summarising findings
+├── credit_limit_final.ipynb                              # Full analysis notebook (run top to bottom)
+├── default of credit card clients.csv                   # Dataset — 30,000 credit card customers
+├── Credit_Limit_Prediction_Insights.pptx                # Professional presentation summarising findings
+├── Predicting Credit Card Limit - Regression Problem Statement.pptx  # Original problem statement
 └── README.md
 ```
 
